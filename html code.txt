@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>My First Web Page</title>
+ <link rel="stylesheet"
+  href="style.css">
+    </head>
+    <body>
+        <ul>
+            <li class="list">
+            Apples
+            </li>
+            <li class="list">
+            Bananas
+            </li>
+            <li class="list">
+            Oranges
+            </li>
+            </ul>
+            <form class="form">
+                <label for="name">Your Name</label>
+                <input type="'text" id="'name" name="name" value="'your name"><br>
+                <label for="email">Your Email</label>
+                <input type="'text" id="'email" name="email" value="'your email"><br>
+                <input type="submit" value="'Submit" class="button">
+            </form>
+            <img src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2117&q=80">
+             <!-- a) .classname answer for q 5 -->
+             <!-- hyper text markup language -->
+</body>
+</html>
